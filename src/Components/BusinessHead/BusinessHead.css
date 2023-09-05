@@ -1,0 +1,33 @@
+.b-head {
+    background-color: #011039;
+    border-bottom-left-radius: 100px;
+}
+
+.p-div1 {
+    font-size: 60px;
+    margin-top: 90px;
+    font-weight: 600;
+    margin-bottom: 0;
+    color: white;
+}
+
+.p-span1 {
+    color: #FF9900;
+}
+
+.para1-1 {
+    font-size: 15px;
+    margin-top: 10px;
+    color: white;
+}
+
+.btn1-1 {
+    cursor: pointer;
+    font-size: 15px;
+    color: white;
+    background-image: linear-gradient(#03164A, #011039);
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 25px 10px 25px;
+}
